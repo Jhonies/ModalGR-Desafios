@@ -1,0 +1,18 @@
+Desafio 1 
+1 - O número mínimo de testes necessários para serem realizados nessa tela, na função cadastro são 3
+2 - Os titulos desses testes são: 1- Titulo de teste de cadastro de pessoa. 2- Titulo de teste de cadastro de senha. 3- Titulo de teste de campos obrigatórios vazios
+
+Desafio 2
+Relatório de erro: Site de vendas
+Sistema: E-commerce-flax-one
+Site:https://e-commerce-flax-one.vercel.app/
+Ambiente de teste: Navegador Opera Gx LVL5 (core: 109.0.5097.90)
+Sistema Operacional: Windows 11 64-bit
+Relatório escrito: Ao entrar na página de produtos e selecionarmos para adicionar um produto no carrinho repetidas vezes, o site nos dá um limite de 4 itens por produto,
+após exceder o limite de itens aparece um pop-up com uma mensagem de Erro:.
+Resultado esperado: É recomendado que o cliente possa comprar um número expressivo de produtos, contanto que tenha no estoque e não sobrecarregue a interface da página,
+assim prevenindo ataques de bot. O que pode ser feito também é uma mensagem mais elaborada e comunicativa avisando ao cliente que ele já excedeu o número de itens para
+o mesmo produto no carrinho.
+Relatório demonstrativo: https://lacy-rover-437.notion.site/Desafio-QA-107c27f8aae34fa18462adf763296a99
+Observações adicionais: O erro persiste em um navegador recém instalado, com cachê limpo e em outros computadores
+Ambiente de teste adicional: Google Chrome Versão 125.0.6422.60 (Versão oficial) 64 bits
